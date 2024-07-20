@@ -1,0 +1,52 @@
+[Task 3]
+3 1
+[Task 3]
+ERROR
+[Task 3]
+ERROR
+[Task 3]
+3 1 1
+[Task 3]
+3 2
+[Task 4]
+TRUE
+[Task 4]
+TRUE
+[Task 4]
+TRUE
+[Task 4]
+FALSE
+[Task 4]
+FALSE
+[Task 5]
+3
+[Task 5]
+5
+[Task 5]
+EMPTY
+EMPTY
+[Task 5]
+5
+3
+8
+11
+3
+8
+11
+3
+[Task 6]
+3, 3
+[Task 6]
+5, 2
+[Task 6]
+EMPTY
+EMPTY
+[Task 6]
+5, 2
+8, 3
+3, 4
+11, 11
+8, 3
+3, 4
+11, 11
+8, 3

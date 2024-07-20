@@ -1,0 +1,46 @@
+[Task 1]
+2
+[Task 1]
+2
+[Task 2]
+A2B1D0C0
+[Task 2]
+A2B0C1D0
+[Task 2]
+A1B2C1D1E0F0
+[Task 3]
+1 2 3 
+0
+1
+[Task 3]
+1 2 3 4 5 
+2
+0
+[Task 3]
+4 2 6 3 1 5 
+-1
+-1
+[Task 4]
+2
+[Task 3]
+1 2 3 4 5 
+2
+0
+[Task 4]
+3
+[Task 4]
+2
+[Task 4]
+3
+[Task 5]
+5 -3 2 
+[Task 5]
+15 10 4 -2 9 -25 
+[Task 5]
+EMPTY 22 
+[Task 5]
+TRUE FALSE 3 
+[Task 6]
+6 6 -3 5 
+[Task 6]
+ERROR 5 5 -3 2 
