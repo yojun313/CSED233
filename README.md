@@ -1,2 +1,2 @@
 # CSED233_Data-Structure
- POSTECH [CSED233] Data Structure Assignment
+ POSTECH [CSED233] 데이터구조
